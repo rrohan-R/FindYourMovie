@@ -102,7 +102,7 @@ export default function App() {
       </header>
 
       <section className="hero">
-        <h1>What are we watching tonight?</h1>
+        <h1>What are we watching today?</h1>
         <p>Pick a language, genre and year — we'll find real, verified movies with IMDb links.</p>
 
         <div className="panel">
